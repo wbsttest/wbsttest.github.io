@@ -1,0 +1,46 @@
+{
+	"short_name": "Canadian Immigration Program",
+	"name": "Canadian Immigration Program",
+	"description":"Canadian Immigration Program",
+	"orientation": "portrait",
+	"icons": [
+	  {
+		"src": "/assets/icons/android-chrome-192x192.png",
+		"sizes": "64x64 32x32 24x24 16x16",
+		"type": "image/x-icon",
+		"purpose": "any maskable"
+	  },
+	  {
+		"src": "/assets/icons/android-chrome-192x192.png",
+		"type": "image/png",
+		"sizes": "192x192"
+	  },
+	  {
+		"src": "/assets/icons/android-chrome-512x512.png",
+		"type": "image/png",
+		"sizes": "512x512"
+	  },
+	  {
+		"src": "/assets/icons/android-chrome-512x512.png",
+		"type": "image/png",
+		"sizes": "128x128",
+		"purpose": "maskable"
+	  },
+	  {
+		"src": "/assets/icons/android-chrome-512x512.png",
+		"type": "image/png",
+		"sizes": "192x192",
+		"purpose": "maskable"
+	  }
+	],
+  
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#673ab8",
+	"background_color": "#fff",
+  
+	"categories": [ "pool-services", "mult-services", "book-keeping","bin-cleaning", "carpenting", "beaty-salon","fencing-contractor","carpenting","commercial-cleaning"]
+  }
+  
+  
+  
