@@ -1986,7 +1986,7 @@ var App = function App() {
   if (typeof window !== 'undefined') {
     var location = window.location.pathname;
     var origin = window.location.origin;
-    if (location === "/" && origin === "https://lp.canadadistrict.com" || location === "/" && origin === "http://localhost:3001") window.location.href = "/lp/en/global/immigration/";
+    if (location === "/" && origin === "https://lp.canadadistrict.com" || location === "/" && origin === "https://wbsttest.github.io") window.location.href = "/lp/en/global/immigration/";
   }
   var originData = /*#__PURE__*/function () {
     var _ref = _asyncToGenerator(function* () {
